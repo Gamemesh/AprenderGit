@@ -1,0 +1,27 @@
+main{
+    background-color: cadetblue;
+}
+
+main h1{
+    text-align: center;
+    font-size: 3em;
+}
+
+ul li{
+    margin: 1em 1em;
+    color: rgb(97, 40, 59);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.caixa{
+    display: block;
+    width: 10%;
+    margin: 2em auto;
+    padding: 2em;
+}
+
+main p{
+    text-align: center;
+    font-size: 2em;
+}
